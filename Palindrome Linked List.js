@@ -1,5 +1,13 @@
 //problem link: https://leetcode.com/problems/palindrome-linked-list/submissions/
 /**
+ * ---------------------------------
+ * Given the head of a singly linked list, return true if it is a palindrome.
+Example 1:
+Input: head = [1,2,2,1]
+Output: true
+Input: head = [1,2,2,33,2,1]
+Output: false
+-----------------------------------
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
