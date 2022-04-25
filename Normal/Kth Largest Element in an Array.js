@@ -1,4 +1,4 @@
-//auestion link: https://leetcode.com/problems/kth-largest-element-in-an-array/
+//question link: https://leetcode.com/problems/kth-largest-element-in-an-array/
 /*
   @param {number[]} nums
   @param {number} k
